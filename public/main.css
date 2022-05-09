@@ -1,0 +1,25 @@
+nav.center {
+    text-align: center;
+    font-size: 50px;
+    background-color: black;
+    overflow: hidden;
+}
+
+nav.center a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+nav.center a:hover {
+    background-color: black;
+    color: black;
+}
+
+nav.center a:hover {
+    background-color: brown;
+    /* color: white; */
+}
